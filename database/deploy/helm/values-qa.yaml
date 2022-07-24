@@ -1,8 +1,7 @@
 image:
   registry: docker.io
-  repository: kubetm/database-service   # kubetm -> 개인 <docker id>로 변경
+  repository: kilo1089/database-service 
   tag: latest
-# docker build -t kubetm/database-service:latest
 
 tomcatAllowRemoteManagement: 1
 
